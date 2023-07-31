@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  - goblin
+  - orc
+  - item
+  - food
+  - goblin_seller_quest
+  - goblin_quest
+  - hunter_medicine_quest
+  - chest
+  - altar
+  - napis
+  - deer
+  - dark_goblin
+  - cave
+  - wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - enemy
+  - Water
+  - UI
+  - item
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
